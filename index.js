@@ -277,4 +277,4 @@ client.on("guildMemberAdd", member => {
 
 
 
-bot.login("NTYxMjE1MTg5NTcyMzg2ODI2.XJ4-YA.S-KY7TtIqfhBjrYnLoD_2WZCi2w");
+bot.login("token");
